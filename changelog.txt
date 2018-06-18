@@ -1,0 +1,9 @@
+
+ + Santiago Ultima Online Changelog
+ 
+  - 06/18/2018: [INGAME] Added Daily Rewards System
+  - 06/18/2018: [FILES] Updated map0.mul
+  - 06/18/2018: [FILES] Updated statics0.mul
+  - 06/18/2018: [FILES] Updated staidx0.mul
+  - 06/18/2018: [LAUNCHER] ADDED NEW DESIGN
+  
