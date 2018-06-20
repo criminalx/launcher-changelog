@@ -1,6 +1,11 @@
 
- + Santiago Ultima Online Changelog
+ + Welcome to Santiago Ultima Online Changelog
+ + Visit us at www.santiagouo.com
  
+ 
+  - 06/20/2018: [FILES] Updated Skills.mul > Added Farming skillname.
+  - 06/20/2018: [FILES] Updated Multi.mul > Added New Builds
+  - 06/19/2018: [FILES] Updated statics0.mul
   - 06/18/2018: [INGAME] Updated Quest System
   - 06/18/2018: [INGAME] Added Daily Rewards System
   - 06/18/2018: [FILES] Updated map0.mul
